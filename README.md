@@ -7,3 +7,6 @@ Welcome to my GitHub profile. I'm learning Web Development and C programming.
 - 📫 How to reach me: academicsdm03@gmail.com
 
 ![Sayandip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsKungFuPanda&show_icons=true&theme=radical)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YourUsername)
+
