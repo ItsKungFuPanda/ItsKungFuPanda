@@ -1,4 +1,4 @@
-#                            👋 Hi there, I'm Sayandip!
+# 👋 Hi there, I'm Sayandip!
 Welcome to my GitHub profile. I'm learning Web Development and C programming.
 
 - 🌱 Currently learning: React, Node.js, and Python
