@@ -20,5 +20,5 @@ Welcome to my GitHub profile. I'm learning Web Development and C programming.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&target="_blank")](https://www.linkedin.com/in/sayandip-manna-71b610244)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&target="_blank")](https://github.com/ItsKungFuPanda)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&target="_blank")](https://twitter.com/boring_unda)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&target="_blank")](https://twitter.com/boring_anda)
 
