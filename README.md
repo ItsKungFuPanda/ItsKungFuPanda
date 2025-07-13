@@ -10,7 +10,7 @@ Welcome to my GitHub profile. I'm learning Web Development and C programming.
 ![GitHub followers](https://img.shields.io/github/followers/ItsKungFuPanda?label=Followers)
 ![Profile views](https://komarev.com/ghpvc/?username=ItsKungFuPanda&color=blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKungFuPanda&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKungFuPanda&layout=compact&show_icons=true&theme=radical)
 
 
 ![Sayandip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsKungFuPanda&show_icons=true&theme=radical)
@@ -18,5 +18,7 @@ Welcome to my GitHub profile. I'm learning Web Development and C programming.
 ![Sayandip's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItsKungFuPanda&theme=neon&hide_border=true)
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayandip-manna-71b610244)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/ItsKungFuPanda)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&target="_blank")](https://www.linkedin.com/in/sayandip-manna-71b610244)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&target="_blank")](https://github.com/ItsKungFuPanda)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&target="_blank")](https://twitter.com/boring_unda)
+
