@@ -15,7 +15,6 @@ Welcome to my GitHub profile. I'm learning Web Development and C programming.
 
 ![Sayandip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsKungFuPanda&show_icons=true&theme=radical)
 
-![Sayandip's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItsKungFuPanda&theme=neon&hide_border=true)
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&target="_blank")](https://www.linkedin.com/in/sayandip-manna-71b610244)
