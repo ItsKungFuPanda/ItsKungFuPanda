@@ -21,7 +21,7 @@ Welcome to my GitHub profile. I'm learning Web Development and C programming.
 #### ☎ I'm always eager to connect with fellow coders and learners. Feel free to reach out to me on:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sayandip-manna-71b610244" target="_blank">
+  <a href="https://www.linkedin.com/in/ItsKungFuPanda" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn Logo" />
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/ItzKungFuPanda" target="_blank">
