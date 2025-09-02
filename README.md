@@ -18,7 +18,23 @@ Welcome to my GitHub profile. I'm learning Web Development and C programming.
 
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&target="_blank")](https://www.linkedin.com/in/sayandip-manna-71b610244)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&target="_blank")](https://github.com/ItsKungFuPanda)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&target="_blank")](https://twitter.com/ItzKungFuPanda)
+#### ☎ I'm always eager to connect with fellow coders and learners. Feel free to reach out to me on:
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/sayandip-manna-71b610244" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn Logo" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/ItzKungFuPanda" target="_blank">
+    <img src="https://cdn.simpleicons.org/X/1DA1F2" height="30" alt="Twitter Logo" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/ItsKungFuPanda" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="30" alt="Facebook Logo" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/roaming_sayandip03/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram Logo" />
+  </a>&nbsp;&nbsp;
+</div>
+
+<h3 align="center">Let's learn and code together! 🤝🤍 </h3>
+
+---
