@@ -11,10 +11,14 @@ Welcome to my GitHub profile. I'm learning Web Development and C programming.
 ![Profile views](https://komarev.com/ghpvc/?username=ItsKungFuPanda&color=blue)
 
 <div align="center">
+
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKungFuPanda&layout=compact&show_icons=true&theme=radical)
 
 
 ![Sayandip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsKungFuPanda&show_icons=true&theme=radical)
+
+
 </div>
 
 
