@@ -10,12 +10,12 @@ Welcome to my GitHub profile. I'm learning Web Development and C programming.
 ![GitHub followers](https://img.shields.io/github/followers/ItsKungFuPanda?label=Followers)
 ![Profile views](https://komarev.com/ghpvc/?username=ItsKungFuPanda&color=blue)
 
-
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKungFuPanda&layout=compact&show_icons=true&theme=radical)
 
 
 ![Sayandip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsKungFuPanda&show_icons=true&theme=radical)
-
+</div>
 
 
 #### ☎ I'm always eager to connect with fellow coders and learners. Feel free to reach out to me on:
